@@ -22,7 +22,7 @@
 
 # IntelliJ IDEA / WebStorm
 *.iml
-.idea/
+.idea
 *.iws
 .idea/*
 
